@@ -14,8 +14,7 @@ You can see the website React [HERE](https://celebrated-seahorse-5a20f6.netlify.
 <hr/>
 This website help the users to check daily weather Reports and Weekly Weather reports. And i made this my self
 
-[chaitu](https://github.com/chaitu786) 
-
+[sneha] ()
 
 ### Technologies
 <hr />
